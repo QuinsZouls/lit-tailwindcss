@@ -1,0 +1,27 @@
+{
+  "name": "lit-tailwindcss",
+  "version": "1.0.0",
+  "description": "styles of tailwindcss for Polymer and LitElement",
+  "main": "tailwindcss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinsZouls/lit-tailwindcss.git"
+  },
+  "keywords": [
+    "Polymer",
+    "LitElement",
+    "tailwindcss"
+  ],
+  "author": "QuinsZouls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinsZouls/lit-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/QuinsZouls/lit-tailwindcss#readme",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  }
+}
