@@ -1,9 +1,8 @@
 {
   "name": "lit-tailwindcss",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "styles of tailwindcss for Polymer and LitElement",
   "main": "tailwindcss.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +15,7 @@
     "LitElement",
     "tailwindcss"
   ],
-  "author": "QuinsZouls",
+  "author": "quinszouls",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/QuinsZouls/lit-tailwindcss/issues"
